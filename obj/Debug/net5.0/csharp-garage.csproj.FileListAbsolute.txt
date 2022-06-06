@@ -1,0 +1,16 @@
+C:\Users\Luke\c-sharp\csharp-garage\obj\Debug\net5.0\csharp-garage.csproj.AssemblyReference.cache
+C:\Users\Luke\c-sharp\csharp-garage\obj\Debug\net5.0\csharp-garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\c-sharp\csharp-garage\obj\Debug\net5.0\csharp-garage.AssemblyInfoInputs.cache
+C:\Users\Luke\c-sharp\csharp-garage\obj\Debug\net5.0\csharp-garage.AssemblyInfo.cs
+C:\Users\Luke\c-sharp\csharp-garage\obj\Debug\net5.0\csharp-garage.csproj.CoreCompileInputs.cache
+C:\Users\Luke\c-sharp\csharp-garage\bin\Debug\net5.0\csharp-garage.exe
+C:\Users\Luke\c-sharp\csharp-garage\bin\Debug\net5.0\csharp-garage.deps.json
+C:\Users\Luke\c-sharp\csharp-garage\bin\Debug\net5.0\csharp-garage.runtimeconfig.json
+C:\Users\Luke\c-sharp\csharp-garage\bin\Debug\net5.0\csharp-garage.runtimeconfig.dev.json
+C:\Users\Luke\c-sharp\csharp-garage\bin\Debug\net5.0\csharp-garage.dll
+C:\Users\Luke\c-sharp\csharp-garage\bin\Debug\net5.0\ref\csharp-garage.dll
+C:\Users\Luke\c-sharp\csharp-garage\bin\Debug\net5.0\csharp-garage.pdb
+C:\Users\Luke\c-sharp\csharp-garage\obj\Debug\net5.0\csharp-garage.dll
+C:\Users\Luke\c-sharp\csharp-garage\obj\Debug\net5.0\ref\csharp-garage.dll
+C:\Users\Luke\c-sharp\csharp-garage\obj\Debug\net5.0\csharp-garage.pdb
+C:\Users\Luke\c-sharp\csharp-garage\obj\Debug\net5.0\csharp-garage.genruntimeconfig.cache
